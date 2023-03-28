@@ -4,9 +4,10 @@ A small program that performs simple simulations of a moving object.
 ## Install
 ### Prerequisites
 [Node.js](https://nodejs.org)
-### Install dependencies
+### Install dependencies and build project
 ```bash
-$ npm install
+$ npm ci
+$ npm run build
 ```
 ## Run
 ### Input
